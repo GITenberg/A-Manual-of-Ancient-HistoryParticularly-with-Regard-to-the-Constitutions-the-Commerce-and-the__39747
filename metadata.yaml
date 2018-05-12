@@ -1,0 +1,38 @@
+_repo: A-Manual-of-Ancient-HistoryParticularly-with-Regard-to-the-Constitutions-the-Commerce-and-the__39747
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Talboys, D. A. (David Alphonso)
+    alias: Talboys, David Alphonso
+    deathdate: 1840
+    gutenberg_agent_id: '42464'
+    url: http://www.gutenberg.org/2009/agents/42464
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heeren, A. H. L. (Arnold Hermann Ludwig)
+    alias: Heeren, Arnold Hermann Ludwig
+    birthdate: 1760
+    deathdate: 1842
+    gutenberg_agent_id: '40197'
+    url: http://www.gutenberg.org/2009/agents/40197
+description: ''
+gutenberg_issued: '2012-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcsh 'Geography, Ancient'
+- !lcc 'D'
+title: 'A Manual of Ancient History
+
+  Particularly with Regard to the Constitutions, the Commerce, and the Colonies, of
+  the States of Antiquity'
+url: http://www.gutenberg.org/ebooks/39747
